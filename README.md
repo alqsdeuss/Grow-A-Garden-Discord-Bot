@@ -14,5 +14,5 @@ info:
 - put ur bot token in .env
 
 credits:
-imforealtrend - discord
-Just3itx (api)
+- imforealtrend - discord
+- Just3itx (api)
