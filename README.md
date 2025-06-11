@@ -3,11 +3,11 @@
 simple bot for showing stuff from roblox grow a garden
 
 commands:
-`,stock` - seeds  
-`,eggs` - eggs  
-`,event` - honey + event stuff  
-`,cosmetic` - cosmetics + deco  
-`,gear` - tools
+- `,stock` - seeds
+- `,eggs` - eggs
+- `,event` - honey + event stuff
+- `,cosmetic` - cosmetics + deco
+- `,gear` - tools
 
 info:
 - create `.env` file
