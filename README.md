@@ -9,7 +9,7 @@ commands:
 `,cosmetic` - cosmetics + deco  
 `,gear` - tools
 
-info: 
+info:
 - create `.env` file
 - put ur bot token in .env
 
